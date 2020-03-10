@@ -10,7 +10,7 @@ Inbox extends [beyondcode/laravel-mailbox](https://github.com/beyondcode/laravel
 You can install the package via composer:
 
 ```bash
-composer require xoshbin/inbox
+composer require xoshbin/laravel-inbox
 ```
 After installing Inbox, publish its assets using the inbox:install Artisan command:
 
