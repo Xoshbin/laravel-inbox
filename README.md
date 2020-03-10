@@ -3,7 +3,7 @@ Receive and send emails from your project with Laravel
 
 Inbox extends [beyondcode/laravel-mailbox](https://github.com/beyondcode/laravel-mailbox)
 
-![Image of Inbox](https://github.com/Xoshbin/inbox/blob/master/Screen-Shot.png?raw=true)
+![Image of Inbox](https://github.com/Xoshbin/laravel-inbox/blob/master/Screen-Shot.png?raw=true)
 
 ## IN DEVELOPMENT
 Please be aware that this package is still under development and may not be ready for production
