@@ -1,6 +1,6 @@
 {
-  "name": "xoshbin/inbox",
-  "description": "Laravel Ibox for email routing",
+  "name": "xoshbin/laravel-inbox",
+  "description": "Receive and send emails from your project with Laravel",
   "type": "library",
   "license": "MIT",
   "authors": [
